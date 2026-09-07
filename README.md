@@ -1,4 +1,4 @@
-# Hi, I'm Priyanshu Ranjan Verma 👋
+# Hi, I'm Priyanshu Ranjan Verma
 
 ### Backend Developer | AI/ML Engineer
 
