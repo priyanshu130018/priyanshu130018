@@ -81,6 +81,6 @@ I'm particularly interested in **AI Engineering, Backend Architecture, RAG Syste
 
 🔗 **GitHub:** [priyanshu130018](https://github.com/priyanshu130018)
 
-🔗 **LinkedIn:** [Priyanshu Verma](www.linkedin.com/in/priyanshu-verma-b94306308)
+🔗 **LinkedIn:** [Priyanshu Verma](https://www.linkedin.com/in/priyanshu-verma-b94306308)
 
-💻 **LeetCode:** [Priyanshu Verma](YOUR_LEETCODE_URL)
+💻 **LeetCode:** [Priyanshu Verma](https://leetcode.com/u/Priyanshu1318/)
